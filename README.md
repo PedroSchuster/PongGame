@@ -18,9 +18,8 @@ A minimalistic Pong game designed for two local players.
     ```bash
     ./prog
 
-Enjoy the game:
+3. **Enjoy the game**:
 Player 1 and Player 2 compete by controlling their paddles to hit the ball. The game will automatically track scores.
 
-Requirements
-
-    A C++ compiler with support for make.
+**Requirements**:
+A C++ compiler with support for make.
