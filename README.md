@@ -1,3 +1,30 @@
-# Pong
+#Simple Pong Game
 
-Simple pong game support for 2 local players. Use "make" to compile and "./prog" to play. Player 1 is control using "W" and "S" and Player 2 is control using "Up arrow" and "Down arrow". The game ends when the score reaches 5.
+A minimalistic Pong game designed for two local players.
+Features
+
+    Two-player gameplay: Compete against a friend on the same computer.
+    Simple controls:
+        Player 1: Use W to move up and S to move down.
+        Player 2: Use the Up Arrow to move up and the Down Arrow to move down.
+    Winning condition: The first player to reach a score of 5 wins the game.
+
+How to Play
+
+    Compile the game:
+        Run the following command in the terminal:
+
+    make
+
+Start the game:
+
+    Run the compiled program:
+
+        ./prog
+
+    Enjoy the game:
+        Player 1 and Player 2 compete by controlling their paddles to hit the ball. The game will automatically track scores.
+
+Requirements
+
+    A C++ compiler with support for make.
